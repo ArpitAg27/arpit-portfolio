@@ -506,7 +506,7 @@ const Hero = () => {
               margin: 0,
             }}
           >
-            I build <em style={{ fontStyle: 'italic', color: 'var(--vermilion)', fontWeight: 420 }}>resilient backends and the tooling around them</em>. Services that survive bad networks, retry the right things, and stay quiet on weekends. Occasionally a React app, occasionally a weekend ML experiment, always something I'd want to use myself.
+            I build <em style={{ fontStyle: 'italic', color: 'var(--vermilion)', fontWeight: 420 }}>resilient backends and the tooling around them</em>. Services that survive bad networks, retry the right things, and stay quiet on weekends. Lately, mostly LLM agents and MCP tooling, with frontends and small ML experiments filling the rest.
           </p>
           <div
             style={{
