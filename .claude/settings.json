@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Read(//Users/arpitagarwid/Desktop/**)",
+      "Bash(npx eslint *)"
+    ]
+  }
+}
